@@ -1,0 +1,18 @@
+{
+  "id": 55556,
+  "category": {
+    "id": 0,
+    "name": "string"
+  },
+  "name": "perrin",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+}
